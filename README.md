@@ -93,7 +93,7 @@ plt.show()
 ```
 
 ### Output:
-![image](https://github.com/amurthavaahininagarajan/WDM_EXP7/assets/118679102/6f66b1bd-95e0-460e-961a-fd00abb831c1)
+![image](https://github.com/KothaiKumar/WDM_EXP7/assets/121215739/aa2a9adb-ba89-4dbf-8b27-2d9c2ae4c7c3)
 
 ### Result:
-Thus Link Analysis using HITS Algorithm in Python is successfully implemented.
+Thus, Link Analysis using HITS Algorithm in Python is successfully implemented.
